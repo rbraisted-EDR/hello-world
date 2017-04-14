@@ -1,0 +1,93 @@
+ChangeDateTime,userName,firstName,lastName,email,company_name,createdByUserID,creatorFirstName,creatorLastName,lastLogin
+8/19/16 4:12 PM,cstoll,Cody,Stoll,b0ba8efe-170@atwell-group.com,"Atwell, LLC",1878,William,Henderson,3/30/17 2:39 PM
+8/19/16 3:56 PM,billiskamm,William (Bill),Liskamm,b0b79816-170@aol.com,Partner Engineering & Science,37280,Bryce,Miyamura,8/31/16 3:09 PM
+8/19/16 2:34 PM,jp.hoagland,JP,Hoagland,b0f68fb6-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,3/31/17 2:12 PM
+8/19/16 2:34 PM,shawna.odonnell,Shawna,O'Donnell,b10179cd-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,9/6/16 1:04 PM
+8/19/16 2:33 PM,tia.franklin,Tia,Franklin,b10359b7-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,3/31/17 11:13 PM
+8/19/16 1:04 PM,manderson1,Maggie,Anderson,b0fa7363-170@ebiconsulting.com,EBI Consulting,11896,Stephanie,Trueb,3/31/17 2:45 PM
+8/18/16 10:39 PM,mmorris,Michael,Morris,b0fbf3eb-170@langan.com,Langan Engineering & Environmental,39624,Gerald,Zambrella,\N
+8/18/16 7:39 PM,csorrell,Clint,Sorrell,b0ba8c0a-170@fandr.com,Froehling and Robertson,11139,Benjamin,"Whitley, PE",3/31/17 1:37 PM
+8/18/16 3:53 PM,williamliniewicz,William,Liniewicz,b0b795f8-170@benchmarkenv.com,"Benchmark Environmental Services, Inc.",17716,Kristin,Lukas,8/24/16 5:14 PM
+8/18/16 3:51 PM,Kalina,Kalina,Naydenova,b0f73f95-170@benchmarkenv.com,"Benchmark Environmental Services, Inc.",17716,Kristin,Lukas,8/24/16 2:11 PM
+8/18/16 3:25 PM,rjohnson3,Robin,Johnson,b0ffa7f7-170@federatedenvironmental.com,"Federated Environmental Associates, Inc.",17716,Kristin,Lukas,11/30/16 3:00 PM
+8/17/16 6:38 PM,agordonenvironmental,Arthur,Gordon,b0999cd6-170@gmail.com,"Gordon, Arthur",46747,Tina,DaSilva,3/30/17 11:25 PM
+8/16/16 7:56 PM,msmith9,Megan,Smith,b0fc51d2-170@ttlassoc.com,"Smith, Megan",44521,Derek,LeVasseur,8/17/16 1:19 AM
+8/16/16 7:52 PM,plemme,Pam,Lemme,b0fe55ff-170@comcast.net,"Lemme, Pam",44521,Derek,LeVasseur,11/10/16 9:27 PM
+8/16/16 5:10 PM,bconnell,Bruce,Connell,b0b7290e-170@partneresi.com,Partner Engineering & Science,37195,Francesca,Nguyen,10/19/16 1:48 PM
+8/16/16 4:39 PM,majoralys,Marc,Paskow,b0fa6014-170@aol.com,Peak Environmental LLC,14076,Alyssa,Cawley,8/16/16 1:00 PM
+8/16/16 3:29 PM,roberto.falcon,Roberto,Falcon,b0fff80b-170@stantec.com,Stantec,2619,Detlev,Grad,8/31/16 2:48 PM
+8/16/16 3:08 PM,a.weber,Amy,Weber,b09911d8-170@trileaf.com,Trileaf,17716,Kristin,Lukas,3/23/17 1:50 PM
+8/16/16 2:23 PM,h.horwitz,Howard,Horwitz,b0f348af-170@trileaf.com,Trileaf,17716,Kristin,Lukas,\N
+8/15/16 8:14 PM,ccurtis,Cameron,Curtis,b0b91484-170@enercon.com,"Enercon Services, Inc.",43726,Kristin,Stout,1/17/17 9:02 PM
+8/15/16 4:41 PM,djordge.pajcin,Djordje,Pajcin,b0f091bd-170@stantec.com,Stantec,2619,Detlev,Grad,9/1/16 8:33 AM
+8/12/16 5:16 PM,nhall1,Nicole,Hall,b0fce378-170@pinnacleindy.com,"Pinnacle Env. Consultant, Inc.",39287,Ly,Pham,\N
+8/11/16 11:55 PM,cpatterson2,Clark,Patterson,b0ba4195-170@hes-enviro.com,"Hinderliter Environmental Services, Inc.",29816,Cathy,Reed,3/1/17 7:45 PM
+8/11/16 8:04 PM,jmcgregor,Jordan,McGregor,b0f60076-170@sovereignenvironmental.com,Sovereign Env.,1,Kevin,Kozar,3/16/17 4:29 PM
+8/11/16 5:05 PM,daniel.lachman,Dan,Lachman,b0baf3de-170@atcassociates.com,ATC Group Services LLC,1377,Dawn,Merrill,2/27/17 7:55 PM
+8/11/16 3:15 PM,Andrew.Guarino,Andrew,Guarino,b09a191a-170@arcadis.com,"ARCADIS U.S., Inc.",9536,Carolyn,Hare,8/16/16 12:26 PM
+8/10/16 5:17 PM,test5,Testing,1234,b1031b65-170@parcelsupport.com,AEI Consultants,12989,Christopher,"Minnich, AIA, LEED AP",\N
+8/10/16 1:19 PM,rgriffin1,Ryan,Griffin,b0ff6652-170@unitedconsulting.com,United Consulting Group Ltd.,6798,Dan,Vargas,\N
+8/9/16 7:10 PM,rsimpson,Rusty,"Simpson, PG",b100429c-170@apexcos.com,Apex Companies LLC,44597,Tommy,Kim,8/9/16 4:42 PM
+8/9/16 6:36 PM,michael.squires,Michael,Squires,b0fb7a6f-170@arcadis.com,"ARCADIS U.S., Inc.",9536,Carolyn,Hare,8/9/16 2:37 PM
+8/9/16 5:20 PM,john.rogers1,John,Rogers,b0f64c62-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,4/1/17 12:27 AM
+8/9/16 12:34 PM,acampbell2,Michelle,Campbell,b0995ab3-170@arcco.org,"ARC Environmental, Inc.",6798,Dan,Vargas,\N
+8/9/16 12:34 PM,mcampbell2,Michelle,Campbell,b0faf6b9-170@arcco.org,"ARC Environmental, Inc.",6798,Dan,Vargas,\N
+8/5/16 4:16 PM,allen.macgarvie,Allen,Macgarvie,b099d1a3-170@stantec.com,Stantec,9714,Jill,"Peters-Dechman, P.Eng.",3/17/17 7:56 PM
+8/5/16 4:16 PM,carla.sullivan,Carla,Sullivan,b0b8c1e7-170@arcadis.com,"ARCADIS U.S., Inc.",39287,Ly,Pham,\N
+8/5/16 3:16 PM,owen.massey,Owen,Massey,b0fd97de-170@atcassociates.com,ATC Group Services LLC,39050,Mark,Thompson,2/23/17 4:35 PM
+8/4/16 6:31 PM,dpuricelli,Dan,Puricelli,b0f0a99b-170@pe-engrs.com,Professional Env. Engineers,27973,Rachel,McShane,8/8/16 9:39 AM
+8/4/16 6:06 PM,dcfede6,David,Fede,b0e3a819-170@gmail.com,"Fede, David",46747,Tina,DaSilva,9/16/16 4:51 PM
+8/4/16 5:20 PM,gypsycomet,James,Kundert,b0f34749-170@gmail.com,ATC Group Services LLC,1,Kevin,Kozar,\N
+8/4/16 4:46 PM,Tomfrancis8997,Tom,Francis,b10fdf2f-170@yahoo.com,"Francis, Tom",39287,Ly,Pham,8/10/16 3:08 PM
+8/4/16 1:08 PM,george.rollins,George,Rollins,b0f2b8cd-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,3/31/17 11:17 AM
+8/3/16 9:59 PM,scoobick,Shauna,Coobick,b10106f8-170@gmail.com,"Coobick, Shauna",46747,Tina,DaSilva,8/22/16 3:31 PM
+8/3/16 9:16 PM,sparrish,Shane,Parrish,b101f046-170@fisherarnold.com,Fisher and Arnold Environmental,39038,Hal,Tashie,3/29/17 2:18 PM
+8/3/16 6:31 PM,RedactorsInk,Sara,Gengler,b0ff4170-170@yahoo.com,Partner Engineering & Science,37280,Bryce,Miyamura,8/17/16 8:52 PM
+8/2/16 9:12 PM,charles.anoff,Charles,Anoff,b0b95deb-170@novaconsulting.com,"Nova Consulting Group, Inc.",10083,Veronica,Hassard,9/8/16 2:23 PM
+8/2/16 8:44 PM,kyle.carlson,Kyle,Carlson,b0f8e44a-170@rve.com,Remington & Vernick Engineers,1,Kevin,Kozar,\N
+8/2/16 6:08 PM,Julie.krachey,Julie,Krachey,b0f6f279-170@apexcos.com,Apex Companies LLC,41050,Dylan,Shiffer,10/12/16 5:15 PM
+8/2/16 6:08 PM,serene.daro,Serene,Daro,b1013a27-170@apexcos.com,Apex Companies LLC,41050,Dylan,Shiffer,3/30/17 2:17 PM
+8/2/16 6:07 PM,glen.smith,Glen,Smith,b0f2df09-170@apexcos.com,Apex Companies LLC,41050,Dylan,Shiffer,9/8/16 6:47 PM
+8/2/16 3:11 PM,kbillingsley,Kaitlyn,Billingsley,b0f787ae-170@onsiteec.com,"Onsite Environmental Consulting, LLC.",44557,Tamara,Mayer,3/27/17 12:16 PM
+8/2/16 2:59 PM,cabusenbark,Craig,Busenbark,b0b8b7d7-170@coopertire.com,Cooper Tire & Rubber Company,39013,Megan,Kirkpatrick,8/2/16 1:11 PM
+8/1/16 10:59 PM,johnvanhook,John,Van Hook,b0f65719-170@madriver.com,"Van Hook, John",46747,Tina,DaSilva,8/25/16 5:07 PM
+8/1/16 7:12 PM,elva.cantu,Elva,Cantu,b0f17f5e-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,3/31/17 2:53 PM
+8/1/16 7:11 PM,jen.mitchell,Jen,Mitchell,b0f50d61-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,11/1/16 1:11 PM
+8/1/16 7:11 PM,russell.brewer,Russ,Brewer,b1006109-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,3/31/17 11:05 PM
+8/1/16 7:10 PM,nancy,Nancy,Hoagland,b0fca605-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,3/31/17 4:59 PM
+8/1/16 3:35 PM,shenderson1,Scott,Henderson,b1017f84-170@augustmack.com,"August Mack Environmental, Inc.",9005,Michelle,Baker,12/13/16 4:24 PM
+8/1/16 1:52 PM,jpowers1,Jarrod,Powers,b0f69a7b-170@enercon.com,"Enercon Services, Inc.",6018,Justin,Scott,8/1/16 9:54 AM
+7/29/16 4:12 PM,dhanson2,Darshan,Hanson,b0e415f4-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,3/30/17 3:42 PM
+7/29/16 4:12 PM,jeni.white,Jeni,White,b0f50e46-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,3/30/17 3:41 PM
+7/29/16 4:10 PM,david.mitchell,David,Mitchell,b0e35f69-170@afxllc.com,"AFX, LLC",7832,Joanna,Gramigna,2/16/17 8:45 PM
+7/29/16 3:25 PM,edr4,AFX,LLC,b0f13cc7-170@afxllc.com,"AFX, LLC",1,Kevin,Kozar,\N
+7/29/16 1:41 PM,dgavaghan1,Damian,Gavaghan,b0e40f0a-170@ebiconsulting.com,EBI Consulting,11898,Jerry,Pingel,11/21/16 8:46 AM
+7/29/16 12:34 PM,sharon.mckay,Sharon,McKay,b10162ae-170@advisian.com,Advisian,48208,Heather,Charbonneau,\N
+7/29/16 12:32 PM,bridget.loe,Bridget,Loe,b0b857b6-170@advisian.com,Advisian,48208,Heather,Charbonneau,8/8/16 12:23 PM
+7/29/16 12:31 PM,dallas.borowski,Dallas,Borowski,b0bad907-170@advisian.com,Advisian,48208,Heather,Charbonneau,\N
+7/29/16 12:31 PM,robyn.yamamoto,Robyn,Yamamoto,b1000e0e-170@advisian.com,Advisian,48208,Heather,Charbonneau,9/20/16 11:47 AM
+7/29/16 12:30 PM,kelly.newnham,Kelly,Newnham,b0f7d5bb-170@advisian.com,Advisian,48208,Heather,Charbonneau,9/20/16 12:56 PM
+7/29/16 12:29 PM,kim.mcleish,Kimberley,"McLeish, Ph.D.",b0f82be2-170@advisian.com,Advisian,48208,Heather,Charbonneau,3/27/17 6:08 PM
+7/29/16 12:29 PM,neepa.parikh,Neepa,Parikh,b0fcca9c-170@advisian.com,Advisian,48208,Heather,Charbonneau,3/23/17 2:03 PM
+7/29/16 12:03 PM,douglas.flinn,Douglas,Flinn,b0f08f21-170@atcassociates.com,ATC Group Services LLC,9574,Sarah,Griffin,7/29/16 8:07 AM
+7/28/16 8:13 PM,aharrison,Andrew,Harrison,b099a0be-170@apexcos.com,Apex Companies LLC,46747,Tina,DaSilva,7/29/16 1:28 PM
+7/28/16 7:30 PM,Skphrr,William,Harris,b101abe8-170@aol.com,U.S. Army Corps of Engineers,1,Kevin,Kozar,7/29/16 8:55 AM
+7/28/16 2:03 PM,alevine,Andrew,Levine,b099c89b-170@stradley.com,"Stradley Ronon Stevens & Young, LLP",12183,Lauren,Carlucci,1/9/17 7:11 PM
+7/27/16 6:14 PM,p.sakson,Paul,Sakson,b0fd9b1a-170@paulsakson.com,"Paul D. Sakson Associates, Inc.",17716,Kristin,Lukas,8/5/16 4:36 PM
+7/27/16 6:11 PM,egallagher,Eugene,Gallagher,b0f145be-170@melick-tully.com,"Melick-Tully & Associates, PC",17716,Kristin,Lukas,\N
+7/27/16 6:08 PM,mbriglio,Eric,Helders,b0faf0f9-170@lewcorp.com,LEW Corporation,17716,Kristin,Lukas,\N
+7/27/16 6:05 PM,wlawes,William,Lawes,b1119031-170@lawescompany.com,"Lawes Environmental Services, LLC",17716,Kristin,Lukas,\N
+7/27/16 5:59 PM,jsorge,James,Sorge,b0f6c9fb-170@jmsorge.com,"JM Sorge, Inc.",17716,Kristin,Lukas,\N
+7/27/16 5:49 PM,rwhitehead,Robert,Whitehead,b1007e46-170@verizon.net,"Cornerstone Associates, LLC",17716,Kristin,Lukas,\N
+7/27/16 4:22 PM,pmcgaha,Paul,McGaha,b0fe5a6c-170@aeiconsultants.com,AEI Consultants,35376,Marilu,Galeana,3/1/17 5:14 AM
+7/27/16 4:04 PM,catherineswanson,Catherine,Swanson,b0b8e23e-170@eaest.com,EA Engineering Science & Tech.,1,Kevin,Kozar,7/27/16 12:25 PM
+7/27/16 3:46 PM,heather.charbonneau,Heather,Charbonneau,b0f37363-170@advisian.com,Advisian,30080,Dan,Doerner,3/30/17 8:21 PM
+7/26/16 8:01 PM,jmyers1,Jason,Myers,b0f60ccb-170@emgcorp.com,EMG,19064,Courtney,Bartlett,3/21/17 11:39 PM
+7/26/16 7:22 PM,rwalker1,Robert,Walker,b1007b8a-170@hygenix.com,"Hygenix, Inc.",41050,Dylan,Shiffer,7/27/16 8:23 AM
+7/25/16 8:01 PM,Lubbers,Logan,Lubbers,b0fa1504-170@pmenv.com,"PM Environmental, Inc.",25442,Lindsey,Sorensen,3/27/17 3:11 PM
+7/25/16 2:05 PM,chollands,Cameron,Hollands,b0b98006-170@airtekenv.com,Airtek Env. Corp.,19351,Katrin,Kraft,\N
+7/25/16 12:46 PM,francois.nadeau,Francois,Nadeau,b0f23560-170@stantec.com,Stantec,195,Mark,"Bernardi, P.T., B.Sc.",3/15/17 9:19 PM
+7/24/16 11:31 PM,mamlak64,Mark,Bryant,b0fa72d6-170@gmail.com,Bryant GeoEnvironmental Inc.,1,Kevin,Kozar,\N
+7/22/16 8:41 PM,kathleen.cook,Kathleen,Cook,b0f76623-170@rpsgroup.com,Gaiatech Real Estate Division,12337,Kim,Gagnon,\N
+7/22/16 6:44 PM,jlakeberg,Jackie,Lakeberg,b0f5da31-170@cecinc.com,"Civil & Environmental Consultants, Inc.",3702,Adrian,Blackman,7/22/16 2:46 PM
+7/22/16 6:16 PM,rgidley,Rachel,Gidley,b0ff634b-170@augustmack.com,"August Mack Environmental, Inc.",9005,Michelle,Baker,3/31/17 1:00 PM
