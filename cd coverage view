@@ -1,0 +1,48 @@
+USE [ABS DATA]
+GO
+
+/****** Object:  View [dbo].[vwExportCDAndBuilderRadiusCoverage]    Script Date: 04/14/2017 14:48:44 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+
+
+
+/*
+	Date Created: 03/30/2017	Author:	Rick Braisted
+	
+	Provides City Directory and Builder Radius coverage information by
+	geographic location, using existing functions. Requested as part of the 
+	project to re-design the SRF. Should be used for export	only!
+	
+*/
+  
+CREATE VIEW [dbo].[vwExportCDAndBuilderRadiusCoverage]
+AS
+
+SELECT
+	gl.State,
+	gl.CountyName AS County,
+	gl.PostalCity AS City,
+	gl.Alias AS CityAlias,
+	gl.ZIPCode,
+	CASE 
+		WHEN dbo.HasPCICoverage(gl.ZIPCode, gl.Alias, gl.CountyName, gl.State) = 1 
+		THEN 'Image' 
+		ELSE 'AutoRun' 
+	END AS CDOption,
+	CASE 
+		WHEN dbo.udf_HasBuilderRadiusCoverage(gl.PostalCity, gl.State, gl.PostalCity, gl.State) = 1
+		THEN 'Yes'
+		ELSE 'No'
+	END	AS BuilderRadiusCoverage
+
+FROM dbo.GeographicLocation gl
+
+
+
+GO
